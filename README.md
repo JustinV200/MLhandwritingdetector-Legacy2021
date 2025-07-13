@@ -2,7 +2,7 @@
 
 **Early pre-coursework machine learning project**, built entirely from scratch in Python.
 
-Created in **July 2021** as my first introduction to machine learning — prior to any formal instruction or exposure to modern ML frameworks like TensorFlow or PyTorch.
+Created in **July 2021** as a rising high school Junior, my first introduction to machine learning — prior to any formal instruction or exposure to modern ML frameworks like TensorFlow or PyTorch.
 
 This basic feedforward neural network uses only `numpy` and `scipy` to train on a subset of the **MNIST handwritten digit dataset**, using backpropagation and sigmoid activation.
 
