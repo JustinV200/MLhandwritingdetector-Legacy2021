@@ -21,15 +21,6 @@ This basic feedforward neural network uses only `numpy` and `scipy` to train on 
 
 ---
 
-## 📂 Files
-
-- `Network` class: Defines the neural network and learning logic
-- `learn()` method: Performs backpropagation training
-- `predict()` method: Queries the network for digit recognition
-- Training loop and test loop with performance output
-
----
-
 ## 📈 Performance
 
 - Trained on `mnist_train_100.csv`
